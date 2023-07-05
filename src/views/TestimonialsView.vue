@@ -1,5 +1,5 @@
 <template>
-    <div v-if="testimonials" class="flex-container row row-cols-3">
+    <div v-if="testimonials" class="flex-container row row-cols-">
         <CardComp v-for="testimonial of testimonials" :key="testimonial.id" :testimonial="testimonial"/>
     </div>
     <div v-else>Loading...</div>
@@ -24,5 +24,10 @@ export default {
 
 </script>
 <style>
+
+.body {
+    background-color: black !important;
+}
+
     
 </style>

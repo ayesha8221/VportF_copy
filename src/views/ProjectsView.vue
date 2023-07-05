@@ -1,5 +1,5 @@
 <template>
-    <div v-if="projects" class="flex-container row row-cols-3">
+    <div v-if="projects" class="flex-container row row row-col-5">
         <ModalComp v-for="project of projects" :key="project.id" :project="project"/>
     </div>
     <div v-else>Loading...</div>

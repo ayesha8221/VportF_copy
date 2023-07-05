@@ -4,7 +4,7 @@
       <img src="/docs/5.3/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="30" height="24">
     </a> -->
   <!-- </div> -->
-        <ul class="nav justify-content-left">
+        <ul class="nav justify-content-center">
   <li class="nav-item">
     <router-link to="/" class="nav-link">Home</router-link>
   </li>
@@ -46,7 +46,7 @@ ul {
 }
 
 a.nav-link {
-  color:rgb(0, 0, 0) !important;
+  color: blueviolet !important;
 }
 
     

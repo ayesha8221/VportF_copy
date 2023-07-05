@@ -12,6 +12,15 @@
       Hi! I'm Ayesha Galant.<br>
       I am an aspiring software developer.
     </div>
+    <div>
+      <router-link to="/projects">
+        <button class="btnp">Projects</button>
+      </router-link>
+      <router-link to="/contact">
+        <button class="btnc">Contact</button>
+      </router-link>
+    
+    </div>
 </div>
 </div>
                       
@@ -39,7 +48,7 @@ export default {
 }
 
 .bgImg {
-  background-image: url(https://i.postimg.cc/Dwdz7rtS/backgr.jpg);
+  background-image: url(https://i.postimg.cc/wBPLvM9f/nikita-kachanovsky-OVbe-SXRk-9-E-unsplash-1-1.jpg);
     position: relative;
     background-size: cover;
     height: 100vh;
@@ -48,13 +57,13 @@ export default {
     background-repeat: no-repeat;
 }
 
-.container.overlay {
+/* .container.overlay {
 backdrop-filter: blur(3px);
 
-}
+} */
 
 .wrapper {
-  padding-top: 200px;
+  padding-top: 270px;
   /* height: 100vh; */
   /*This part is important for centering*/
   display: grid;
@@ -62,7 +71,7 @@ backdrop-filter: blur(3px);
   
 }
 
-ul {
+.ul {
   background-image: none;
   background-color: transparent; /* Make the menu become transparent */
   border-radius: 0px;
@@ -80,13 +89,13 @@ ul {
 .bgText {
   /* background-color: rgb(0, 0, 0); */
     /* background-color: rgb(0, 0, 0, 0.4); */
-    color: rgb(0, 0, 0);
+    color: rgb(156, 156, 156);
   width: 47ch;
   /* border: 1px solid rgb(224, 193, 154); */
   animation: typing 2s steps(22), blink 1s step-end infinite alternate;
   white-space: nowrap;
   overflow: hidden;
-  /* transform: translate(-50%, -50%); */
+  transform: translate(-50%, -50%);
   /* border-right: 1px solid; */
   font-family: monospace;
   font-size: 2em;
@@ -97,6 +106,19 @@ ul {
   from {
     width: 0
   }
+}
+
+.btnp {
+  color: rgb(255, 255, 255);
+  background-color: blueviolet;
+  border: solid blueviolet;
+  margin-right: 100px;
+}
+.btnc {
+  color: white;
+  background-color: blueviolet;
+  border: solid blueviolet;
+  margin-right: 800px;
 }
     
 /* @keyframes blink {

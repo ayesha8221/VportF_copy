@@ -54,5 +54,54 @@
             "id": 8,
             "image": "https://i.postimg.cc/hvsKWnMG/c12-okuhle-gwotiwe-1-720.jpg"
         }
-    ]
+    ],
+
+    "projects": [
+     {
+         "title": "CSS Character website",
+         "desc": "We were tasked to create a website of a fictional character and include all traits such as education, skills and experience.",
+         "id": 1,
+         "image": "https://i.postimg.cc/kXFRnhpd/image.jpg",
+         "link": "https://papaya-fairy-13d0df.netlify.app/"
+     },
+     {
+         "title": "CSS Character website",
+         "desc": "We were tasked to create a website of a fictional character and include all traits such as education, skills and experience.",
+         "id": 2,
+         "image": "https://i.postimg.cc/kXFRnhpd/image.jpg",
+         "link": "https://papaya-fairy-13d0df.netlify.app/"
+
+     },
+     {
+         "title": "CSS Character website",
+         "desc": "We were tasked to create a website of a fictional character and include all traits such as education, skills and experience.",
+         "id": 3,
+         "image": "https://i.postimg.cc/kXFRnhpd/image.jpg",
+         "link": "https://papaya-fairy-13d0df.netlify.app/"
+     },
+     {
+         "title": "CSS Character website",
+         "desc": "We were tasked to create a website of a fictional character and include all traits such as education, skills and experience.",
+         "id":4,
+         "image": "https://i.postimg.cc/kXFRnhpd/image.jpg",
+         "link": "https://papaya-fairy-13d0df.netlify.app/"
+
+     },
+     {
+         "title": "CSS Character website",
+         "desc": "We were tasked to create a website of a fictional character and include all traits such as education, skills and experience.",
+         "id": 5,
+         "image": "https://i.postimg.cc/kXFRnhpd/image.jpg",
+         "link": "https://papaya-fairy-13d0df.netlify.app/"
+
+     },
+     {
+         "title": "CSS Character website",
+         "desc": "We were tasked to create a website of a fictional character and include all traits such as education, skills and experience.",
+         "id": 6,
+         "image": "https://i.postimg.cc/kXFRnhpd/image.jpg",
+         "link": "https://papaya-fairy-13d0df.netlify.app/"
+
+     }
+ ]
 }
