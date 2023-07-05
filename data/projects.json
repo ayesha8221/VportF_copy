@@ -1,5 +1,4 @@
-{
-    "projects": [
+ [
         {
             "title": "CSS Character website",
             "desc": "We were tasked to create a website of a fictional character and include all traits such as education, skills and experience.",
@@ -61,4 +60,4 @@
             "link": "https://papaya-fairy-13d0df.netlify.app/"
         }
     ]
-}
+
