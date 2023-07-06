@@ -7,49 +7,49 @@
             "image": "https://i.postimg.cc/hvsKWnMG/c12-okuhle-gwotiwe-1-720.jpg"
         },
         {
-            "name": "Okuhle Gxotiwe",
-            "desc": "Ayesha is dedicated and very passionate about her work. Working together makes me motivated to go above and beyond to reach our goals and of course, having fun while doing so.",
+            "name": "Taahirah Ismail",
+            "desc": "Working with Ayesha is always a great experience. She's really well organised, remains calm in the chaos and pushes herself to produce work of a high standard. She's patient with those who need help and you can definately learn a lot from her. ",
             "id": 2,
-            "image": "https://i.postimg.cc/hvsKWnMG/c12-okuhle-gwotiwe-1-720.jpg"
+            "image": "https://i.postimg.cc/pXK0P9hq/C12-Taahirah-Ismail-1.jpg"
 
         },
         {
-            "name": "Okuhle Gxotiwe",
-            "desc": "Ayesha is dedicated and very passionate about her work. Working together makes me motivated to go above and beyond to reach our goals and of course, having fun while doing so.",
+            "name": "Ethan Oliver",
+            "desc": "From the first moment I met Ayesha I was impressed. Her dedication",
             "id": 3,
-            "image": "https://i.postimg.cc/hvsKWnMG/c12-okuhle-gwotiwe-1-720.jpg"
+            "image": "https://i.postimg.cc/5278J13s/Ethan-O.jpg"
 
         },
         {
-            "name": "Okuhle Gxotiwe",
-            "desc": "Ayesha is dedicated and very passionate about her work. Working together makes me motivated to go above and beyond to reach our goals and of course, having fun while doing so.",
+            "name": "Waydin Jochem",
+            "desc": "Ayesha is an enthusiastic person, who is always willing to improve upon her mistakes. She constantly interacting with other people, learning different skills each day and often-times shares her skills with her colleagues at work.",
             "id": 4,
-            "image": "https://i.postimg.cc/hvsKWnMG/c12-okuhle-gwotiwe-1-720.jpg"
+            "image": "https://i.postimg.cc/nrRM5yN6/Waydin-Jochem-C12-C1-25-Apr23-2.jpg"
 
         },
         {
-            "name": "Okuhle Gxotiwe",
-            "desc": "Ayesha is dedicated and very passionate about her work. Working together makes me motivated to go above and beyond to reach our goals and of course, having fun while doing so.",
+            "name": "Meezaan Davids",
+            "desc": "Ayesha is a bright and dedicated individual who is quickly picking up coding skills. Her positive attitude and willingness to learn make her a valuable asset to our team. Working one on one with Ayesha has been a pleasure. As Ayesha's team lead I have no doubt that she will continue to excel in her coding journey.",
             "id": 5,
             "image": "https://i.postimg.cc/hvsKWnMG/c12-okuhle-gwotiwe-1-720.jpg"
 
         },
         {
-            "name": "Okuhle Gxotiwe",
-            "desc": "Ayesha is dedicated and very passionate about her work. Working together makes me motivated to go above and beyond to reach our goals and of course, having fun while doing so.",
+            "name": "Timothy Barry",
+            "desc": "Ayesha is a student dedicated to her work. Since I have worked with her she has been nothing but helpful and encouraging.",
             "id": 6,
-            "image": "https://i.postimg.cc/hvsKWnMG/c12-okuhle-gwotiwe-1-720.jpg"
+            "image": "https://i.postimg.cc/q78rHBcK/c12-timothy-barry-1-720.jpg"
 
         },
         {
-            "name": "Okuhle Gxotiwe",
-            "desc": "Ayesha is dedicated and very passionate about her work. Working together makes me motivated to go above and beyond to reach our goals and of course, having fun while doing so.",
+            "name": "Asiphe Ndimlana",
+            "desc": "",
             "id": 7,
             "image": "https://i.postimg.cc/hvsKWnMG/c12-okuhle-gwotiwe-1-720.jpg"
 
         },
         {
-            "name": "Okuhle Gxotiwe",
+            "name": "",
             "desc": "Ayesha is dedicated and very passionate about her work. Working together makes me motivated to go above and beyond to reach our goals and of course, having fun while doing so.",
             "id": 8,
             "image": "https://i.postimg.cc/hvsKWnMG/c12-okuhle-gwotiwe-1-720.jpg"
@@ -65,43 +65,65 @@
          "link": "https://papaya-fairy-13d0df.netlify.app/"
      },
      {
-         "title": "CSS Character website",
-         "desc": "We were tasked to create a website of a fictional character and include all traits such as education, skills and experience.",
+         "title": "LC Group Project",
+         "desc": "For our group project we replicated the Life Choices Academy website",
          "id": 2,
-         "image": "https://i.postimg.cc/kXFRnhpd/image.jpg",
-         "link": "https://papaya-fairy-13d0df.netlify.app/"
+         "image": "https://i.postimg.cc/y62n5TG5/blk-lc.png",
+         "link": "https://life-choices-project.netlify.app/"
 
      },
      {
-         "title": "CSS Character website",
-         "desc": "We were tasked to create a website of a fictional character and include all traits such as education, skills and experience.",
+         "title": "My First Portfolio",
+         "desc": "Our Boostrap module end project",
          "id": 3,
-         "image": "https://i.postimg.cc/kXFRnhpd/image.jpg",
-         "link": "https://papaya-fairy-13d0df.netlify.app/"
+         "image": "https://i.postimg.cc/50B8jZ1Q/backgr.jpg",
+         "link": "https://mellifluous-hamster-2eca04.netlify.app/"
      },
      {
-         "title": "CSS Character website",
-         "desc": "We were tasked to create a website of a fictional character and include all traits such as education, skills and experience.",
+         "title": "Calculator",
+         "desc": "My calulator using HTML, CSS and JS",
          "id":4,
-         "image": "https://i.postimg.cc/kXFRnhpd/image.jpg",
+         "image": "https://i.postimg.cc/SsfmnGPx/editors-keys-h63f-Ledow-K8-unsplash-1.jpg",
          "link": "https://papaya-fairy-13d0df.netlify.app/"
 
      },
      {
-         "title": "CSS Character website",
-         "desc": "We were tasked to create a website of a fictional character and include all traits such as education, skills and experience.",
+         "title": "BMI Calculator",
+         "desc": "I created a BMI calculator using HTML, CSS and JS",
          "id": 5,
-         "image": "https://i.postimg.cc/kXFRnhpd/image.jpg",
-         "link": "https://papaya-fairy-13d0df.netlify.app/"
+         "image": "https://i.postimg.cc/Hx0c2Xrr/bg.jpg",
+         "link": "https://famous-cuchufli-caf48c.netlify.app/"
 
      },
      {
-         "title": "CSS Character website",
-         "desc": "We were tasked to create a website of a fictional character and include all traits such as education, skills and experience.",
+         "title": "Ecommerce Website",
+         "desc": "For our JS module I made an ecommerce site",
          "id": 6,
-         "image": "https://i.postimg.cc/kXFRnhpd/image.jpg",
+         "image": "https://i.postimg.cc/2yK0zsCR/the-blowup-Rmjq07-KI20-U-unsplash.jpg",
          "link": "https://papaya-fairy-13d0df.netlify.app/"
 
      }
+ ],
+
+ "education": [
+    {
+        "type": "education",
+        "year": "(2023- current)",
+        "school": "Life Choices Academy",
+        "work": "Web Development"
+    },
+    {
+        "type": "education",
+        "year": "(2019-2021)",
+        "school": "High School",
+        "work": "Matric"
+    },
+    {
+        "type": "experience",
+        "year": "(2018-2020)",
+        "school": "Institute of Islamic Studies",
+        "work": "Student Teacher"
+    }
  ]
+
 }
