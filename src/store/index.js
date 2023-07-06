@@ -21,16 +21,16 @@ export default createStore({
   },
   actions: {
     getTestimonials: async (context) => {
-      fetch("http://localhost:3000/testimonials")
+      fetch("https://ayesha8221.github.io/ayesha8821.github.io/db.json")
       .then((res) => res.json())
-      .then((testimonials) => context.commit("setTestimonials", testimonials));
+      .then((data) => context.commit("setTestimonials", data.testimonials));
     },
 
     // Projects
     getProjects: async (context) => {
-      fetch("http://localhost:3000/projects")
+      fetch("https://ayesha8221.github.io/ayesha8821.github.io/db.json")
       .then((res) => res.json())
-      .then((projects) => context.commit("setProjects", projects));
+      .then((data) => context.commit("setProjects", data.projects));
     },
   },
 })
